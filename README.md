@@ -36,7 +36,7 @@ View the <a href="#deploy-holy-unblocker">self-deployment options</a> if you wis
 <br>
 
 > [!CAUTION]
-> If you are going to self-host Holy Unblocker LTS please switch to the PRODUCTION branch for filter evasion features. The master branch is intended for development work and a highly readable source for developers. You can select a production branch (v6.x_production) via the branches dropdown.
+> If you are going to self-host Holy Unblocker LTS please switch to the PRODUCTION branch for filter evasion features enabled automatically. The master branch will feature work-in-progress changes that are not ready for self hosting. If you wish to contribute to this project however please PR to the master branch.
 
 > [!TIP]
 > Holy Unblocker LTS is optimized for self-hosting to provide you with maximum privacy control! Fork this repository and consider starring. You can self-host using either free or paid deployment options, or set it up on a dedicated instance (VPS) for enhanced performance.
